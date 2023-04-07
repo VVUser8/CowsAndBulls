@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CowsAndBulls", "CowsAndBulls\CowsAndBulls.vbproj", "{6C881C2F-7A03-466C-B535-D3674A944475}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CowsAndBulls.Tests", "CowsAndBulls.Tests\CowsAndBulls.Tests.vbproj", "{E04A5C1A-B9A7-4D72-84EB-C6FE107A1771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C881C2F-7A03-466C-B535-D3674A944475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C881C2F-7A03-466C-B535-D3674A944475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C881C2F-7A03-466C-B535-D3674A944475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C881C2F-7A03-466C-B535-D3674A944475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04A5C1A-B9A7-4D72-84EB-C6FE107A1771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04A5C1A-B9A7-4D72-84EB-C6FE107A1771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04A5C1A-B9A7-4D72-84EB-C6FE107A1771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04A5C1A-B9A7-4D72-84EB-C6FE107A1771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
